@@ -82,6 +82,7 @@ img {
     float: left;
     margin-right: 5px;
     cursor: pointer;
+    text-align: center;
 }
 
 .anchor_icon_wrap:hover {
@@ -91,7 +92,10 @@ img {
 .anchor_icon_wrap img {
     width: 30px;
 }
-
+.anchor_icon_wrap i {
+	color: #fff !important;
+	font-size: 18px;
+}
 
 /*  ================================
         global area end
