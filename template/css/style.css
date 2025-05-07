@@ -56,6 +56,12 @@ img {
 .ml {
     display: none;
 }
+    .header-bg {
+        background-color: #151515 !important;
+    }
+    .main-div::before {
+        background-color: #464646 !important;
+    }
 
 
 .time-she {}
